@@ -1,2 +1,3 @@
 kanzaki
 test
+add_chars
